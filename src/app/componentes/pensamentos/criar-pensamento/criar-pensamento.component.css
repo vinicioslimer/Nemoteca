@@ -75,6 +75,7 @@
 
 .modelo .autoria {
   word-wrap: break-word;
+  text-align: right;
 }
 
 .radio {
