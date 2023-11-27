@@ -1,0 +1,64 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "O que sabemos é uma gota, o que ignoramos é um oceano.",
+      "autoria": "Isaac Newton",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "O insucesso é apenas uma oportunidade para recomeçar de novo com mais inteligência.",
+      "autoria": "Henry Ford",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "O verdadeiro heroísmo consiste em persistir por mais um momento, quando tudo parece perdido.",
+      "autoria": "W. F. Grenfel",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos.",
+      "autoria": "Friedrich Nietzsche",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 5,
+      "conteudo": "A confiança em si mesmo é o primeiro segredo do sucesso.",
+      "autoria": "Ralph Waldo Emerson",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 6,
+      "conteudo": "Aquele que não tem confiança nos outros, não lhes pode ganhar a confiança.",
+      "autoria": "Lao-Tsé",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 7,
+      "conteudo": "A adversidade desperta em nós capacidades que, em circunstâncias favoráveis, teriam ficado adormecidas.",
+      "autoria": "Horácio",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 8,
+      "conteudo": "A coragem não é ausência do medo; é a persistência apesar do medo.",
+      "autoria": "Desconhecido",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Apenas pensando um pouco",
+      "autoria": "Piton",
+      "modelo": "modelo2",
+      "id": 9
+    },
+    {
+      "conteudo": "Teste",
+      "autoria": "teste",
+      "modelo": "modelo1",
+      "id": 10
+    }
+  ]
+}
