@@ -9,7 +9,7 @@
     {
       "id": 2,
       "conteudo": "O insucesso é apenas uma oportunidade para recomeçar de novo com mais inteligência.",
-      "autoria": "Henry Ford",
+      "autoria": "Henry Forde",
       "modelo": "modelo2"
     },
     {
@@ -50,15 +50,9 @@
     },
     {
       "conteudo": "Apenas pensando um pouco",
-      "autoria": "Piton",
-      "modelo": "modelo2",
-      "id": 9
-    },
-    {
-      "conteudo": "Teste",
-      "autoria": "teste",
+      "autoria": "Teste",
       "modelo": "modelo1",
-      "id": 10
+      "id": 9
     }
   ]
 }

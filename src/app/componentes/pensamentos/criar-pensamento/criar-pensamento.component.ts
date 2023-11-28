@@ -31,7 +31,7 @@ export class CriarPensamentoComponent {
     });
   }
 
-  cancelarPensamento(): void {
-    alert('Pensamento cancelado com sucesso!');
+  cancelar(): void {
+    this.router.navigate(['/listarPensamento']);
   }
 }
